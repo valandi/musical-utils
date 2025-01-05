@@ -9,12 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-select": "^2.1.3",
+    "@radix-ui/react-slider": "^1.2.2",
+    "@radix-ui/react-switch": "^1.1.2",
     "clsx": "^2.1.1",
     "lucide-react": "^0.468.0",
     "next": "15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwind-merge": "^2.5.5"
+    "react-guitar": "^1.1.2",
+    "react-guitar-sound": "^1.1.2",
+    "react-guitar-theme-dark": "^1.1.2",
+    "react-guitar-tunings": "^1.1.2",
+    "tailwind-merge": "^2.5.5",
+    "vexflow": "^4.2.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
