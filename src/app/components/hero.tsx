@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="w-3/5 mx-auto bg-white dark:bg-gray-800 py-8 px-4 mb-8 rounded-lg shadow-md">
+    <section className="w-3/5 mx-auto bg-gradient-to-r from-violet-500 to-indigo-500 py-8 px-4 mb-8 rounded-lg shadow-md">
       <h2 className="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">
         Overview
       </h2>
